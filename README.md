@@ -142,7 +142,7 @@ python app.py
 ![PDF_Generated_1_2](https://github.com/Tirth27/AI-For-MedicalScience/blob/master/images/readme/PDF_Generated_1_2.jpg)
 
 ## Credits
-This project cannot be completed without you guys [@github/PatrioticParth](https://github.com/PatrioticParth) and [@github/hv245](https://github.com/hv245). Thanks for your support :) 
+This project cannot be completed without you guys [@github/Tirth27](https://github.com/Tirth27) and [@github/hv245](https://github.com/hv245). Thanks for your support :) 
 
 ## References
 
